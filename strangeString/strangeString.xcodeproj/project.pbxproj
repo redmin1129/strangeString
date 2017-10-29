@@ -192,6 +192,7 @@
 				TargetAttributes = {
 					3CF3E1881FA5850F00053102 = {
 						CreatedOnToolsVersion = 8.3.1;
+						DevelopmentTeam = UA2MY64S4T;
 						ProvisioningStyle = Automatic;
 					};
 					3CF3E19C1FA5850F00053102 = {
@@ -411,6 +412,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = UA2MY64S4T;
 				INFOPLIST_FILE = strangeString/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.study.strangeString;
@@ -423,6 +425,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = UA2MY64S4T;
 				INFOPLIST_FILE = strangeString/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.study.strangeString;
